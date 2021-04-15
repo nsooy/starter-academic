@@ -8,9 +8,13 @@ organizations:
 bio: My research interests incl
 interests:
 - Philosophy, Politics and Economics
+- Philosophy of Economics and Economic Methodology
 - Epistemic Game Theory
+- Econometrics and Data Analysis
 - Mathematical Logic
-- Ethics and Social Conflict
+- Ethics and Society
+- Conflict Analysis and Peacebuilding Ethics
+- Violence and Religious Conflict
 education:
   courses:
   - course: Ph.D. in Philosophy
