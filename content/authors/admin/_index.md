@@ -43,4 +43,8 @@ email: nicksooy-at-gmail-dot-com
 highlight_name: false
 
 ---
-Nicholas Sooy a teacher, researcher, and writer. As a Ph.D. candidate at Fordham University.
+I am a Ph.D. candidate at Fordham University, doing research on social phenomena such as conflicts, markets, and collective behavior at the intersection of epistemic game theory and the Philosophy, Politics and Economics paradigm. I am also managing director of the Orthodox Peace Fellowship & In Communion, which focuses on peace research and peacebuilding among religious communities.  
+  
+As a teacher, a researcher, and a writer I am fundamentally a storyteller. As a teacher, I have years of experience turning complex philosophical ideas and hard-to-read texts into easily accessible classroom experiences. As a writer and editor for a peace studies journal, I have years of experience distilling thorny conflicts down to their most essential parts. As a researcher, I have years of experience using mathematical techniques to uncover new insights.  
+  
+My years of experience in non-profit management and higher education administration has taught me the value of teamwork, the importance of bringing together stakeholders, and how each successfully managed project can bring an organization one step closer to fulfilling its mission.
