@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: R
 - description:
-  icon: databsase
+  icon: database
   icon_pack: fas
   name: SQL
 - description:
