@@ -8,8 +8,7 @@ organizations:
 bio: My research interests incl
 interests:
 - Philosophy, Politics and Economics
-- Philosophy of Economics and Economic Methodology
-- Epistemic Game Theory
+- Game Theory and Interactive Epistemology
 - Econometrics and Data Analysis
 - Mathematical Logic
 - Violence and Religious Conflict
