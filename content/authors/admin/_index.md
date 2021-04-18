@@ -8,8 +8,9 @@ organizations:
 bio: ''
 interests:
 - Philosophy, Politics and Economics
-- Econometrics and Data Analysis
+- Interactive Epistemology and Epistemic Game Theory
 - Mathematical Logic
+- Ethics and Society
 - Violence and Religious Conflict
 education:
   courses:
