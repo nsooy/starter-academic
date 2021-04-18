@@ -12,8 +12,6 @@ interests:
 - Epistemic Game Theory
 - Econometrics and Data Analysis
 - Mathematical Logic
-- Ethics and Society
-- Conflict Analysis and Peacebuilding Ethics
 - Violence and Religious Conflict
 education:
   courses:
