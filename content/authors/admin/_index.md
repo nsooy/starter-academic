@@ -5,10 +5,9 @@ role: Ph.D. Candidate
 organizations:
 - name: Fordham University
   url: ''
-bio: My research interests incl
+bio: ''
 interests:
 - Philosophy, Politics and Economics
-- Game Theory and Interactive Epistemology
 - Econometrics and Data Analysis
 - Mathematical Logic
 - Violence and Religious Conflict
