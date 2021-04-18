@@ -28,11 +28,11 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Econometrics
-- description
+- description:
   icon: terminal
   icon_pack: fas
   name: BASH
-- description
+- description:
   icon: python
   icon_pack: fab
   name: Python
