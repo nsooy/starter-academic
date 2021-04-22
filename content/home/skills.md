@@ -36,6 +36,10 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
+- description:
+  icon: edit
+  icon_pack: fas
+  name: Editing
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
